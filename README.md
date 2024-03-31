@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taneeshaa15
-- 🌱 I’m currently learning MACHINE LEARNING
+- 🌱 I’m currently learning CYBER SECURITY
 - 📫 How to reach me -My Gmail id is GARGTANISHA010@GMAIL.COM
 - 😄 Pronouns: SHE/HER
 

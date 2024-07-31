@@ -8,6 +8,8 @@ Hey there👋, I'm Tanisha Garg
 A passionate Developer from India
 </div><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taneeshaa15&label=Profile%20views&color=0e75b6&style=flat" alt="taneeshaa15" /> </p>
+
 
 # 👩‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 

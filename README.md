@@ -13,13 +13,11 @@ A passionate Developer from India
 
 # 👩‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
- <br>-🔭 Ask me about Cloud Computing and Frontend Development</br>
- <br>-📚 I'm currently learning Cyber Security</br>
- <br>-⚡ In my free time I search about DevOps</br>
-<br>- 👯 I’m looking to collaborate with open source enthusiasts and developers</br>
-<br>- 🥅 2024 Goals: Learn DevOps And strengthen DSA</br>
-
-<br>
+<p>🔭 Ask me about Cloud Computing and Frontend Development</p>
+<p>📚 I'm currently learning Cyber Security</p>
+<p>⚡ In my free time I search about DevOps</p>
+<p>👯 I’m looking to collaborate with open source enthusiasts and developers</p>
+<p>🥅 2024 Goals: Learn DevOps And strengthen DSA</p>
 
 ## My trophies:
   
@@ -37,7 +35,6 @@ A passionate Developer from India
 <a href="https://www.codechef.com/users/tanisha_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanisha_codes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/csit_22_175 _" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="csit_22_175 _" height="30" width="40" /></a>
 </p>
-
 
 ## 📊 GitHub Stats:
 

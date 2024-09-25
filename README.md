@@ -10,6 +10,9 @@ A passionate Developer from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taneeshaa15&label=Profile%20views&color=0e75b6&style=flat" alt="taneeshaa15" /> </p>
 
+[![An image of @taneeshaa15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taneeshaa15)](https://holopin.io/@taneeshaa15)
+
+
 
 # 👩‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 

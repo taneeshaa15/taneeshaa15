@@ -19,7 +19,7 @@ A passionate Developer from India
 <p>📚 I'm currently learning Cyber Security</p>
 <p>⚡ In my free time I search about DevOps</p>
 <p>👯 I’m looking to collaborate with open source enthusiasts and developers</p>
-<p>🥅 2024 Goals: Learn DevOps And strengthen DSA</p>
+<p>🥅 2025 Goals: Learn Data Analytics And strengthen DSA</p>
 
 ## My trophies:
   

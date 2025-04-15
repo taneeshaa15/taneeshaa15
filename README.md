@@ -21,9 +21,15 @@ A passionate Developer from India
 <p>👯 I’m looking to collaborate with open source enthusiasts and developers</p>
 <p>🥅 2025 Goals: Learn Data Analytics And strengthen DSA</p>
 
+
 ## My trophies:
-  
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taneeshaa15" alt="taneeshaa15" /></a> </p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=taneeshaa15" alt="taneeshaa15" />
+  </a>
+</p>
+
  
  ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,azure,react,tailwind,ts,vite,php,arduino,mysql,c,figma,postman,cpp,java,aws,gcp,azure,vercel,netlify,firebase,kubernetes,python,git,bash,linux&perline=12)
